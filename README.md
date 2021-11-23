@@ -9,7 +9,9 @@ git clone this repo
 pip install requirements.txt
 
 **Extention file possible : **
-*.jpeg
+
+*.jpeg*
+
 *.mov
 *.png
 
