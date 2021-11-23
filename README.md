@@ -8,12 +8,13 @@ Python version == 3.7
 git clone this repo
 pip install requirements.txt
 
-**Extention file possible : **
+**Extention file possible :**
 
 *.jpeg*
 
-*.mov
-*.png
+*.mov*
+
+*.png*
 
 # Preparation
 Prepare a folder with all the picture and the movies.
@@ -21,9 +22,15 @@ All the files must have this templates : "NameOfFoler - N" where N is the number
 
 For example : 
 **Folders :**
-*/Souvenir
+
+*/Souvenir*
+
 **Files :**
-*/Souvenir - 1.jpeg
-*/Souvenir - 2.move
-*/Souvenir - 3.png
-*/Souvenir - 4.jpeg
+
+*/Souvenir - 1.jpeg*
+
+*/Souvenir - 2.move*
+
+*/Souvenir - 3.png*
+
+*/Souvenir - 4.jpeg*
