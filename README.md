@@ -20,7 +20,7 @@ pip install requirements.txt
 Prepare a folder with all the picture and the movies.
 All the files must have this templates : "NameOfFoler - N" where N is the number of the file.
 
-For example : 
+### Example:
 **Folders :**
 
 */Souvenir*
